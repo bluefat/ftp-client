@@ -5,7 +5,7 @@ A small image based in [debian:jessie](https://hub.docker.com/_/debian/) with FT
 Docker hub: [dockito/ftp-client](https://hub.docker.com/r/dockito/ftp-client/)
 
 ```shell
-docker pull dockito/fpt-client
+docker pull dockito/ftp-client
 ```
 
 ## License
